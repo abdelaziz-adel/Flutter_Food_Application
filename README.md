@@ -7,7 +7,7 @@ A sleek mobile food ordering app built with **Flutter**, offering a delightful e
 ## 🎥 Demo
 
 See the full experience in action — user signup, browsing the menu, favoriting meals, and placing orders.  
-👉 [Watch the demo](https://www.linkedin.com/posts/abdelazizadel_project-done-food-app-a-modern-and-activity-7337031803184021504-YP3g?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADaCgBMBzV7FlkRFVyTib3IPTd5a6hxzLkA)
+👉 [Watch the demo](https://www.linkedin.com/posts/abdelazizadel_flutter-dart-activity-7338223138888912898-JPL5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADaCgBMBzV7FlkRFVyTib3IPTd5a6hxzLkA)
 
 ---
 
